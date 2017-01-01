@@ -1,0 +1,8 @@
+title: Mspec
+description: This project hosts the emerging standard for NIST .mspec which should stabilize and supercede the existing de facto .msp format.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
