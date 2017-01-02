@@ -1,19 +1,12 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "mspec"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : &name "Biomedical Hosting LLC"
+description              : &description "This project hosts the emerging standard for NIST .mspec which should stabilize and supercede the existing de facto .msp format."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "BiomedicalHosting/mspec"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,19 +70,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  name             : "Manor Askenazi"
+  avatar           : "https://www.gravatar.com/avatar/79290103543961b211d37e4c12bf1b34?s=160"
+  bio              : "Managing Member, Biomedical Hosting."
+  location         : "Arlington, MA"
+  email            : "manor@biomedical.hosting"
+  uri              : "http://biomedical.hosting"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "BiomedicalHosting"
   google_plus      :
   keybase          :
   instagram        :
